@@ -1,28 +1,38 @@
-<h1 align="center">Hi! I'm Boks
+<h1 align="center">Hi! I'm kibok
 👋
 </h1>
 
-<div>
-  
-  <img align="left" alt="Bok's gitbub stats" src="https://github-readme-stats.vercel.app/api?username=kiboook&theme=transparent&hide=stars&show_icons=true&hide_border=true" width="400" height="160">
-  
-  <img align="right" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kiboook&langs_count=6&hide_border=true&theme=transparent&layout=compact&exclude_repo=Programmers,BaekJoon,LeetCode,kiboook.github.io,Awesome-Profile-README-templates" height="160">
-  
-</div>
+---
 
-<br><br><br><br><br><br><br>
+### 💼 Currently Building
+Backend Developer at **Gabia** - building a company-wide AI agent platform.
+
+- Personal AI agent infrastructure (OAuth, containers, SSO)
+
+---
+
+### 🏆 Open Source Contributions
+
+<a href="https://github.com/FSoft-AI4Code/CodeWiki">
+  <img src="https://img.shields.io/badge/FSoft--AI4Code%2FCodeWiki-%E2%98%85%201.7k-blue?logo=github&style=flat-square">
+</a>
+
+- [`FSoft-AI4Code/CodeWiki#100`](https://github.com/FSoft-AI4Code/CodeWiki/pull/100): Diagnosed and fixed a regeneration bug in whole-repository documentation mode (`--update`), with unit test coverage. Merged and generalized by maintainer.
 
 ---
 
 <p align="center">
-  
-<a href="https://hits.seeyoufarm.com">
-  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkiboookk&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false">
-  
+
+<a href="https://komarev.com/ghpvc/?username=kiboook">
+  <img src="https://komarev.com/ghpvc/?username=kiboook&color=79C83D&style=flat&label=hits">
+</a>
+
 <a href="https://solved.ac/nkb7714">
   <img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=nkb7714">
-  
+</a>
+
 <a href="https://kiboook.github.io/">
   <img src="http://img.shields.io/badge/blog-black?&logo=github">
-  
+</a>
+
 </p>
